@@ -1,6 +1,6 @@
 import java.util.Scanner; //jave폴더 안의 util 폴더 안의 scanner 호출 
 
-public class First {
+public class 소스 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
