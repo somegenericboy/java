@@ -244,7 +244,7 @@ public class SampleJavaTest {
  
   }
 */  
- public static void main(String[] args) {
+// public static void main(String[] args) {
 		/*
 		 * Scanner in = new Scanner(System.in); int i; int dan;
 		 * System.out.print("구구단의 단수를 입력 >>>"); dan = in.nextInt();
@@ -256,7 +256,7 @@ public class SampleJavaTest {
 		 * 
 		 */	  
 	 
-	  int dan;
+/*	  int dan;
 	  int n;
 	  for (dan=2; dan<=9; dan++) {
 		  for (n=1; n<=9; n++) {
@@ -265,4 +265,32 @@ public class SampleJavaTest {
 		  System.out.println("");
 	  }
 	 }
+*/
+
+ 
+/* Scanner in = new Scanner(System.in);
+ int num1, num2;
+ 
+ for( ; ;) {//무한루프
+	System.out.println("첫번째 정수 입력 >>");
+	num1 = in.nextInt();
+	System.out.println("두번째 정수 입력 >>");
+	num2 = in.nextInt();
+	
+	System.out.printf("%d+%d=%d\n", num1, num2, num1+num2);
+  }
+ }
+*/ 
+ 
+ 
+/* int i = 0;
+ 
+ while(i < 5) {
+	 System.out.println("Hello World");
+	 i ++;*/
+  
+ 
+ 
+// }
+ 
 }
